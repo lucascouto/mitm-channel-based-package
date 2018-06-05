@@ -30,6 +30,10 @@ Then, it is created sockets on  monitor interfaces.
 ### Copy the Real AP configuration, initiate hostapd_rogue.conf and send CSA beacons
 ---
 
-The package tries to capture one beacon sent by the Real AP, then copies it's network configuration to create a `hostapd_rogue.conf` file. From that, a Rogue AP is created on a different (rogue) channel. After this, the Rogue AP starts to send CSA (Channel Switch Announcement) beacons frames with the new channel on it, to try the clients to connect to the rogue channel.
+* The package tries to capture one beacon sent by the Real AP, then copies it's network configuration to create a `hostapd_rogue.conf` file. 
+
+* From that, a Rogue AP is created on a different (rogue) channel. 
+
+* After this, the Rogue AP starts to send CSA (Channel Switch Announcement) beacons frames with the new channel on it, to try the clients to connect to the rogue channel.
 
 
