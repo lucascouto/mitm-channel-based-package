@@ -3,15 +3,15 @@
 This is a Python Package to help you to create a MitM (Man-in-the-Middle) channel-based attack in a 802.11 network.
 
 <p align="center">
-  <img src="https://github.com/lucascouto/mitm-images/blob/master/mitm.png">
+  <img src="https://raw.githubusercontent.com/lucascouto/mitm-images/master/mitm.png">
 </p>
 
 <p align="center">
-  <img src="https://github.com/lucascouto/mitm-images/blob/master/mitm_2.png">
+  <img src="https://raw.githubusercontent.com/lucascouto/mitm-images/master/mitm_2.png">
 </p>
 
 <p align="center">
-  <img src="https://github.com/lucascouto/mitm-images/blob/master/mitm_3.png">
+  <img src="https://raw.githubusercontent.com/lucascouto/mitm-images/master/mitm_3.png">
 </p>
 
 
